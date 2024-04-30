@@ -7,4 +7,4 @@ processes with stringent document verification protocols.
 Empowered users with intuitive navigation, enabling effortless campaign discovery, donation tracking, and real-time support
 through an interactive chatbot interface.
 
- Link- https://courageous-rugelach-21a937.netlify.app/
+ Link- https://deluxe-lokum-d8716b.netlify.app
